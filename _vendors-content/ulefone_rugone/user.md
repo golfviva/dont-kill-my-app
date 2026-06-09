@@ -4,10 +4,6 @@ manufacturer:
 
 ---
 
-Battery optimizations on Ulefone + RugOne phones primarily involve reining in Android's aggressive background app limits and disabling MediaTek’s background management tool, **DuraSpeed**.
-To stop your device from arbitrarily closing essential background apps or delaying your notifications.
-
-
 ## Auto-Start and Background Usage
 
 Look in your system Settings for **Manage Apps Automatically** or **App Launch** in Battery (or Battery Manager) and disable restrictions on the apps you depend on daily.
