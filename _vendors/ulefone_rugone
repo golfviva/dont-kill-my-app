@@ -1,7 +1,7 @@
 ---
 name: Ulefone + RugOne
 manufacturer:
-  - ulefone + rugone
+  - ulefone_rugone
 position: 15
 award: 3
 
