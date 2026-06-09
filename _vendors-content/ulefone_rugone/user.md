@@ -1,6 +1,6 @@
 ---
 manufacturer:
-    - ulefone + rugone
+    - ulefone_rugone
 
 ---
 
