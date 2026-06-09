@@ -2,7 +2,7 @@
 name: Ulefone and RugOne
 manufacturer:
   - ulefone
-award: 3
+award: 4
 position: 7
 redirect_from: /vendors/ulefone.html
 
