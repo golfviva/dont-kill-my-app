@@ -4,6 +4,6 @@ manufacturer:
   - wiko
 redirect_from: /vendors/wiko.html
 award: 3
-position: 8
+position: 9
 
 ---
