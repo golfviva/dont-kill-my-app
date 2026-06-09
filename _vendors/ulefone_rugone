@@ -2,7 +2,8 @@
 name: ulefone_rugone
 manufacturer:
   - ulefone_rugone
-position: 15
 award: 3
+position: 15
+redirect_from: /vendors/ulefone_rugone.html
 
 ---
