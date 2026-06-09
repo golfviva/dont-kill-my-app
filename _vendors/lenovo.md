@@ -2,7 +2,7 @@
 name: Lenovo
 manufacturer:
   - lenovo
-position: 8
+position: 9
 award: 3
 
 ---
