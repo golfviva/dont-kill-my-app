@@ -1,5 +1,5 @@
 ---
-manufacturer: ulefone + rugone
+manufacturer: ulefone_rugone
 
 ---
 
